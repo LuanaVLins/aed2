@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1682023111 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"bibliotecas.h"
+
+1680351669 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao01.h
+
+1682023146 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1681945016 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1680353599 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao02.h
+
+1680356639 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao03.h
+
+1681945094 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1680983034 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao04.h
+
+1681945242 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1681044215 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao05.h
+
+1681945975 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1681053028 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao06.h
+
+1681946767 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1681055448 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao07.h
+
+1681947109 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"questao07.h"
+
+1681947297 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1681066679 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao08.h
+
+1681947683 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1681070378 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao09.h
+
+1681087203 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao10.h
+
+1681948378 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"questao10.h"
+
+1681563059 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao11.h
+
+1681948741 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao11.h"
+
+1681564470 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao12.h
+
+1681948877 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao12.h"
+
+1681693669 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao13.h
+
+1681949040 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	"questao13.h"
+
+1681694566 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao14.h
+
+1681949181 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1681772946 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao15.h
+
+1681949295 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1681774611 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao16.h
+
+1681949502 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1681777280 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao17.h
+
+1681950081 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1681857801 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao18.h
+
+1681950291 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1681860547 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao19.h
+
+1681950584 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1681864203 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao20.h
+
+1681951410 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1681866745 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao21.h
+
+1681951477 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1681935767 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao22.h
+
+1682022276 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1681938540 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao23.h
+
+1682022608 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
+1681939884 c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao24.h
+
+1682023050 source:c:\users\luanalins\desktop\7° periodo\aed2\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
+
+1681943283 c:\users\luanalins\desktop\7° periodo\aed2\lista01\bibliotecas.h
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
