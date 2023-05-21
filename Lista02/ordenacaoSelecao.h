@@ -1,0 +1,6 @@
+#ifndef ORDENACAOSELECAO_H_INCLUDED
+#define ORDENACAOSELECAO_H_INCLUDED
+
+void ordenacaoSelecao(void);
+
+#endif // ORDENACAOSELECAO_H_INCLUDED

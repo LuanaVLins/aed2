@@ -1,0 +1,6 @@
+#ifndef ORDENACAOBOLHA_H_INCLUDED
+#define ORDENACAOBOLHA_H_INCLUDED
+
+void ordenacaoBolha(void);
+
+#endif // ORDENACAOBOLHA_H_INCLUDED

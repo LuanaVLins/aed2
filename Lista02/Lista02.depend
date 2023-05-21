@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1684687319 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacaoBolha.h"
+	"ordenacaoInsercao.h"
+	"ordenacaoSelecao.h"
+
+1684685357 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaobolha.h
+
+1684685370 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoinsercao.h
+
+1684685390 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoselecao.h
+
+1684688709 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoinsercao.c
+	<stdio.h>
+	"ordenacaoInsercao.h"
+
+1684688666 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoselecao.c
+	<stdio.h>
+	"ordenacaoSelecao.h"
+
+1684688709 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaobolha.c
+	<stdio.h>
+	"ordenacaoBolha.h"
+
