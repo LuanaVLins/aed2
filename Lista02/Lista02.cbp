@@ -42,6 +42,13 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ordenacaoInsercao.h" />
+		<Unit filename="ordenacaoMerge.h" />
+		<Unit filename="ordenacaoMergesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ordenacaoQuicksort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="ordenacaoSelecao.c">
 			<Option compilerVar="CC" />
 		</Unit>

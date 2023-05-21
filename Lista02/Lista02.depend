@@ -1,10 +1,12 @@
 # depslib dependency file v1.0
-1684687319 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\main.c
+1684691049 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\main.c
 	<stdio.h>
 	<stdlib.h>
 	"ordenacaoBolha.h"
 	"ordenacaoInsercao.h"
 	"ordenacaoSelecao.h"
+	"ordenacaoMergesort.h"
+	"ordenacaoQuicksort.h"
 
 1684685357 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaobolha.h
 
@@ -23,4 +25,15 @@
 1684688709 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaobolha.c
 	<stdio.h>
 	"ordenacaoBolha.h"
+
+1684690948 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaomergesort.h
+
+1684691014 c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoquicksort.h
+
+1684703053 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaoquicksort.c
+	<stdio.h>
+
+1684703032 source:c:\users\luanalins\desktop\7° periodo\ifam\lista02\ordenacaomergesort.c
+	<stdio.h>
+	"ordenacaoMergesort.h"
 

@@ -3,6 +3,8 @@
 #include "ordenacaoBolha.h"
 #include "ordenacaoInsercao.h"
 #include "ordenacaoSelecao.h"
+#include "ordenacaoMergesort.h"
+#include "ordenacaoQuicksort.h"
 
 int main()
 {
@@ -10,6 +12,8 @@ int main()
     ordenacaoBolha();
     ordenacaoInsercao();
     ordenacaoSelecao();
+    ordenacaoMergesort();
+    ordenacaoQuicksort();
 
     return 0;
 }
